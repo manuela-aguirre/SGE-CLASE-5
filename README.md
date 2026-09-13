@@ -1,3 +1,4 @@
+
 # SGE - Sistema de Gestión de Biblioteca
 
 Proyecto Laravel para la gestión de una biblioteca universitaria (catálogo de libros, editoriales, géneros, préstamos).
@@ -107,3 +108,5 @@ libros
 ├── editorial_id (FK → editorials.id)
 └── timestamps
 ```
+# SGE-CLASE-5
+ f0b5b9e906345b7fcf224ea649e8bfd351b8ca6b
