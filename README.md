@@ -382,7 +382,7 @@ $this->call([
 ]);
 ```
 
-Además, se crea un usuario de prueba:
+Además, se crea automaticamente un usuario de prueba:
 
 ```text
 Nombre: Test User
@@ -401,52 +401,6 @@ O utilizando Sail:
 ./vendor/bin/sail artisan db:seed
 ```
 
-
-# ⚙️ Comandos útiles
-
-### Iniciar servidor Laravel
-
-```bash
-php artisan serve
-```
-
-### Ver las rutas disponibles
-
-```bash
-php artisan route:list
-```
-
-### Ver el estado de las migraciones
-
-```bash
-php artisan migrate:status
-```
-
-### Ejecutar migraciones
-
-```bash
-php artisan migrate
-```
-
-### Ejecutar pruebas
-
-```bash
-php artisan test
-```
-
-### Abrir Tinker
-
-```bash
-php artisan tinker
-```
-
-### Compilar frontend
-
-```bash
-npm run build
-```
-
-### Ejecutar Vite en desarrollo
 
 ```bash
 npm run dev
