@@ -530,4 +530,3 @@ O utilizando Sail:
 ```bash
 ./vendor/bin/sail artisan db:seed
 ```
- 
