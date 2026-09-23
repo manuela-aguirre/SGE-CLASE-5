@@ -1,6 +1,6 @@
 # SGE - Sistema de Gestión Empresarial
 
-# Análisis de la Empresa
+# Capitulo 1: Análisis de la Empresa
 
 ## 1. Datos Generales
 - **Nombre:** Biblioteca COTECNOVA
@@ -85,7 +85,7 @@ Estas entidades son las utilizadas en este avance del proyecto ayudándonos como
 - `Genero` 1:N `Libro` (un género agrupa muchos libros; cada libro pertenece a un género)
 - `User` consulta y gestiona el catálogo (autenticación para administrar libros, editoriales y géneros)
 
-## Semana 2: Instalación de Laravel
+## Capitulo 2: Instalación de Laravel
 
 ### 2.1 Requisitos 
 
@@ -244,7 +244,7 @@ El archivo `.env` contiene las **variables de entorno** de la aplicación: confi
 
 ---
 
-# Semana 3: Documentación Visual del Proyecto
+# Capitulo 3: Documentación Visual del Proyecto
 
 ## Captura de pantalla de la landing page
 
