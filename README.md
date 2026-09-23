@@ -493,7 +493,7 @@ Route::get('/dashboard', [DashboardController::class, 'index'])
 - Las rutas generales de la aplicación se encuentran en `routes/web.php`.
 ## Seeders
  
-El proyecto incluye seeders (vistos en clase) para generar información inicial en la base de datos:
+El proyecto incluye seeders (explicados en clase) para generar información inicial en la base de datos:
  
 ```text
 database/seeders/
